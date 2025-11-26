@@ -1,4 +1,4 @@
-# Hasibullah Naeim - Portfolio
+# Hasibullah Naeim 
 
 Hello! I am **Hasibullah Naeim**, a passionate Computer Science student with a strong focus on **Data Science, Machine Learning, and Software Development**. I enjoy building end-to-end data solutions, analyzing data, and creating interactive visualizations.  
 
