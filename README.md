@@ -58,8 +58,6 @@ The project supports **sustainable tourism development** by combining data-drive
   - Instructional Delivery Method: QAS Self Study  
 - **Pre-University English Programme Completion Certificate** - Albukhary International University  
 
----
- 
 
 ---
 
