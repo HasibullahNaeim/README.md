@@ -49,8 +49,17 @@ The project supports **sustainable tourism development** by combining data-drive
 ---
 
 ## Certifications
-- **Python Essentials 1** - Cisco Networking Academy  
+**Python Essentials 1** - Cisco Networking Academy  
+- **Networking Basics** - Cisco Networking Academy  
+- **Power BI Certificate of Achievement** - 365 Data Science  
+  - Completed all lessons and assessments in Power BI course  
+  - CPE Credits: 12.5  
+  - Field of Study: Specialized Knowledge  
+  - Instructional Delivery Method: QAS Self Study  
 - **Pre-University English Programme Completion Certificate** - Albukhary International University  
+
+---
+ 
 
 ---
 
